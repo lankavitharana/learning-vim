@@ -21,3 +21,5 @@
 ## Navigation
 
 * Move to the other bracket easily using `%` 
+* Go back to the previos location using `Ctrl + O`
+* Go forward to the forward location using `Ctrl + I`
