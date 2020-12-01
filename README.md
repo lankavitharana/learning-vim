@@ -1,5 +1,11 @@
 # learning-vim
 
+## Other tools to learn vim
+
+ - Vim tutor, type command `vimtutor` in command line and it will launch a nice vim tutorial page
+ - Open Vim, interactive tutorial in link - https://www.openvim.com/tutorial.html
+ - Vim adventures, game that helps learning navigation in vim
+
 ## Delete without copying to the register
 `_dd`
 
